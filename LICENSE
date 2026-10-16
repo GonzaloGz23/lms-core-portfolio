@@ -1,0 +1,24 @@
+Copyright (c) 2026 GonzaloGz23
+
+All Rights Reserved.
+
+Este repositorio se publica como muestra de portafolio con fines de evaluación.
+
+No se concede permiso, por el presente documento ni por implicación, para usar,
+copiar, modificar, fusionar, publicar, distribuir, sublicenciar o vender copias
+del software, la documentación o cualquier parte de este repositorio, sin la
+autorización previa y por escrito del titular de los derechos de autor.
+
+El software se proporciona "tal cual", sin garantía de ningún tipo, expresa o
+implícita, incluidas, entre otras, las garantías de comerciabilidad, idoneidad
+para un propósito particular y no infracción.
+
+-------------------------------------------------------------------------------
+
+NOTE FOR THIRD-PARTY COMPONENTS
+
+This repository is built on top of the Laravel + React starter kit, which is
+licensed under the MIT license, and includes other third-party dependencies under
+their respective licenses. Those components remain subject to their own licenses;
+the "all rights reserved" notice above applies to the original work of the
+copyright holder.
