@@ -19,7 +19,7 @@ Casos de uso principales:
 
 | Capa           | Tecnología                                                   |
 | -------------- | ------------------------------------------------------------ |
-| Backend        | PHP 8.3+, Laravel, Fortify (auth), Socialite (Google OAuth)  |
+| Backend        | PHP 8.4+, Laravel, Fortify (auth), Socialite (Google OAuth)  |
 | Frontend       | React 19, Inertia, TypeScript, Tailwind CSS, shadcn/ui       |
 | Base de datos  | PostgreSQL (dev/prod) · SQLite en memoria (tests)            |
 | Build          | Vite, Wayfinder (rutas tipadas de Laravel → TypeScript)      |
