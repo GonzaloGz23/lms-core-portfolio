@@ -50,7 +50,7 @@ Grabaciones del flujo principal (WebP animado).
 
 ## Stack
 
-- **Backend:** PHP 8.3+, Laravel, Fortify, Socialite
+- **Backend:** PHP 8.4+, Laravel, Fortify, Socialite
 - **Frontend:** React 19, Inertia, TypeScript, Tailwind CSS, shadcn/ui
 - **Base de datos:** SQLite por defecto (cero configuración) · PostgreSQL opcional (DDEV) · SQLite en memoria en los tests
 - **Herramientas:** Vite, Wayfinder, DDEV, PHPUnit, Pint, Larastan, ESLint, Prettier
@@ -72,7 +72,7 @@ Resumen rápido:
 
 ### Requisitos
 
-- [DDEV](https://ddev.com/) (recomendado) o, en su lugar, PHP 8.3+, Composer y
+- [DDEV](https://ddev.com/) (recomendado) o, en su lugar, PHP 8.4+, Composer y
   Node.js. No hace falta un servidor de base de datos: por defecto usa SQLite.
 
 ### Con DDEV
